@@ -1,0 +1,7 @@
+.my-form input, .my-form textarea, .my-form label{
+    display: block;
+}
+
+.my-form textarea{
+    resize: none;
+}
