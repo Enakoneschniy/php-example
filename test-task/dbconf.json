@@ -1,0 +1,6 @@
+{
+  "host" : "localhost",
+  "database" : "test_task",
+  "user" : "root",
+  "password" : "123321"
+}
